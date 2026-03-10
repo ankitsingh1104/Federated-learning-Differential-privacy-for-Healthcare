@@ -38,7 +38,7 @@ Key components:
 Folder:
 
 ```
-ehr_federated_learning/
+ehr federated learning/
 ```
 
 ---
@@ -57,7 +57,7 @@ Key components:
 Folder:
 
 ```
-mri_federated_learning/
+mri federated learning/
 ```
 
 ---
@@ -76,7 +76,7 @@ Key components:
 Folder:
 
 ```
-xray_federated_learning/
+xray federated learning/
 ```
 
 ---
@@ -88,16 +88,16 @@ Federated-Healthcare-DP-Learning
 
 README.md
 
-ehr_federated_learning
+ehr federated learning
     train_ehr_federated.py
     privacy_analysis.py
     benchmark_models.py
 
-mri_federated_learning
+mri federated learning
     train_mri_federated.py
     privacy_modes_experiment.py
 
-xray_federated_learning
+xray federated learning
     train_xray_federated.py
     medical_evaluation.py
     visualization.py
@@ -164,19 +164,19 @@ Each module can be run independently.
 ### EHR Federated Model
 
 ```bash
-python ehr_federated_learning/train_ehr_federated.py
+python ehr federated learning/train_ehr_federated.py
 ```
 
 ### MRI Federated Model
 
 ```bash
-python mri_federated_learning/train_mri_federated.py
+python mri federated learning/train_mri_federated.py
 ```
 
 ### Chest X-ray Federated Model
 
 ```bash
-python xray_federated_learning/train_xray_federated.py
+python xray federated learning/train_xray_federated.py
 ```
 
 ---

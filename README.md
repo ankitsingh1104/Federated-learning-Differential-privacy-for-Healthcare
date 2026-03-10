@@ -99,8 +99,7 @@ mri federated learning
 
 xray federated learning
     train_xray_federated.py
-    medical_evaluation.py
-    visualization.py
+   
 ```
 
 ---
